@@ -101,17 +101,6 @@ history
 
 ---
 
-## Testing
-
-Unit tests are provided with **GoogleTest**. To run them:
-
-```bash
-cd build
-ctest
-```
-
----
-
 ## Limitations
 
 - History is limited to the last **10 commands**.
